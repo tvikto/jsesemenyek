@@ -11,3 +11,7 @@ function picFunction2()
 {
     document.getElementById("pic").style.width="250px";
 }
+function pageFunction3()
+{
+    console.log("Az oldal betöltött!")
+}
